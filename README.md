@@ -12,8 +12,8 @@
 This is a synthetic dataset shared for educational purposes.
 
 # Contents
-- `Chronic Kidney Disease and Preventive Medicine.ipynb`: Main notebook including statistical testing, and regression analysis and discussion of results
-- `JP Chronic Kidney Disease and Preventive Medicine.ipynb`: Japanese version
+- `chronic-kidney-disease-and-preventive-medicine.ipynb`: Main notebook including statistical testing, and regression analysis and discussion of results
+- `jp-chronic-kidney-disease-and-preventive-medicine.ipynb`: Japanese version
 
 # Analysis Highlights
 - Logistic regression showed a significant positive association between BMI and CKD risk
@@ -31,8 +31,8 @@ This is a synthetic dataset shared for educational purposes.
 このデータセットは教育的な目的で共有されました。
 
 # 内容
-- `JP Chronic Kidney Disease and Preventive Medicine.ipynb`: カイ二乗検定、ロジスティック回帰分析の結果と考察が書かれています。
-- `Chronic Kidney Disease and Preventive Medicine.ipynb`: ノートブックの英語版です。
+- `jp-chronic-kidney-disease-and-preventive-medicine`: カイ二乗検定、ロジスティック回帰分析の結果と考察が書かれています。
+- `chronic-kidney-disease-and-preventive-medicine.ipynb`: ノートブックの英語版です。
 
 # 分析のハイライト
 - ロジスティック回帰分析で、BMIと慢性腎臓病の関連が見られました。
