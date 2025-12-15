@@ -16,9 +16,9 @@ This is a synthetic dataset shared for educational purposes.
 - `jp-chronic-kidney-disease-and-preventive-medicine.ipynb`: Japanese version
 
 # Analysis Highlights
-- Logistic regression showed a significant positive association between BMI and CKD risk
+- Logistic regression showed relation between BMI and CKD risk, but the effect seems to small
 - Clear class imbalance (CKD-positive cases = 92%)
-- Suggestions for future modeling and preventive strategy directions
+- Suggestions for future modeling
 
 # <日本語での説明>
 # 概要
@@ -35,6 +35,6 @@ This is a synthetic dataset shared for educational purposes.
 - `chronic-kidney-disease-and-preventive-medicine.ipynb`: ノートブックの英語版です。
 
 # 分析のハイライト
-- ロジスティック回帰分析で、BMIと慢性腎臓病の関連が見られました。
+- ロジスティック回帰分析ではBMIと慢性腎臓病が統計学的に有意であったものの、BMI単独では影響は小さいものであると示唆されました。
 - 元のデータでは慢性腎臓病と診断された人が約92%のため、それを前提に分析しています。
-- 将来の分析と予防医学への役立て方についての提案が書かれています。
+- 将来の分析への提案が書かれています。
